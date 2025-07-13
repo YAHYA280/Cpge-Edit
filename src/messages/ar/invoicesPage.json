@@ -1,0 +1,22 @@
+{
+    "my_invoices": "فواتيري",
+    "here_are_all_your_invoices": "هنا جميع الفواتير الخاصة بك",
+    "the_invoice_was_sent_message_title": "تم إرسال الفاتورة بنجاح",
+    "the_invoice_was_sent_message_description": "لقد تم إرسال فاتورتك، وبمجرد التحقق منها، سنقوم بتحديث المبلغ المتبقي الذي يتعين عليك دفعه.",
+    "refuse_reason": "سبب الرفض:",
+    "the_rest_to_pay_description": {
+        "you_have_paid": "لقد دفعت",
+        "and_you_still_have_to_pay": "ولا يزال عليك أن تدفع"
+    },
+    "table": {
+        "invoice": "الفاتورة",
+        "amount": "المبلغ",
+        "sent_before": "تم الإرسال قبل",
+        "status": "الحالة",
+        "transaction_id": "معرف المعاملة"
+    },
+    "invoice_date": "تاريخ الفاتورة:",
+    "bill_to": "الفاتورة إلى:",
+    "description": "الوصف:",
+    "Total_amount_due": "إجمالي المبلغ المستحق:"
+}

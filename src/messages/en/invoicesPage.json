@@ -1,0 +1,22 @@
+{
+    "my_invoices": "My invoices",
+    "here_are_all_your_invoices": "Here are all your invoices",
+    "the_invoice_was_sent_message_title": "The invoice was sent successfully",
+    "the_invoice_was_sent_message_description": "Your invoice was sent, and once we verify it, we'll update the rest amount to pay.",
+    "refuse_reason": "Refuse reason:",
+    "the_rest_to_pay_description": {
+        "you_have_paid": "You have paid",
+        "and_you_still_have_to_pay": "And you still have to pay"
+    },
+    "table": {
+        "invoice": "Invoice",
+        "amount": "Amount",
+        "sent_before": "Sent before",
+        "status": "Status",
+        "transaction_id": "Transaction id"
+    },
+    "invoice_date": "Invoice date:",
+    "bill_to": "Bill to:",
+    "description": "Description:",
+    "Total_amount_due": "Total Amount Due:"
+}

@@ -1,0 +1,87 @@
+{
+    "monthNames": {
+        "january": "January",
+        "february": "February",
+        "march": "March",
+        "april": "April",
+        "Mmy": "May",
+        "june": "June",
+        "july": "July",
+        "august": "August",
+        "september": "September",
+        "october": "October",
+        "november": "November",
+        "december": "December"
+    },
+    "header": {
+        "welcome": "مرحبا",
+        "welcome_descripion": "اليوم هو يوم جيد ويجب أن تكون هذه فقرة صغيرة",
+        "new_invoice": "اضافة دفعة",
+        "change_language": "تغيير اللغة",
+        "the_translation": "الترجمة",
+        "the_currency": "العملة",
+        "the_theme": "الوضع",
+        "add_invoice_modal": {
+            "title": "إضافة فاتورة جديدة",
+            "description": "يرجى تحميل ملف الفاتورة الخاص بك في المربع أدناه",
+            "action_button": "إرسال الفاتورة"
+        },
+        "rest_to_pay": {
+            "the_rest_that_you_have_to_pay_is": "الباقي الذي عليك دفعه هو:",
+            "you_completed_the_package_price": "لقد أكملت سعر الحزمة"
+        },
+        "profile": {
+            "my_steps": "خطواتي",
+            "my_account": "حسابي",
+            "my_invoices": "فواتيري",
+            "need_help": "هل تحتاج إلى مساعدة؟",
+            "log_out": "تسجيل الخروج",
+            "this_customer_was_verified_by": "تم التحقق من هذا العميل بواسطة"
+        }
+    },
+    "ok": "حسنا",
+    "cancel": "الغاء",
+    "download": "تحميل",
+    "write_here": "اكتب هنا...",
+    "before": "قبل",
+    "total": "المجموع",
+    "note": "ملاحضة",
+    "attachement": "المرفق",
+    "download_attachement": "تنزيل المرفق",
+    "updating_currency": "تحديث العملة",
+    "file_preview": "معاينة الملف",
+    "updating_language": "تحديث اللغة",
+    "inputs": {
+        "choose_file": "اختر ملف",
+        "to_upload": "للتحميل",
+        "supported_formats": "التنسيقات المدعومة"
+    },
+    "date": {
+        "year": "عام",
+        "month": "شهر",
+        "day": "يوم",
+        "hour": "ساعة",
+        "minute": "دقيقة",
+        "second": "ثانية",
+        "years": "سنوات",
+        "months": "أشهر",
+        "days": "أيام",
+        "hours": "ساعات",
+        "minutes": "دقائق",
+        "seconds": "ثواني"
+    },
+    "statuses": {
+        "accepted": "مقبول",
+        "refused": "مرفوض",
+        "deleted": "تم الحذف",
+        "pending": "قيد الانتظار",
+        "in_process": "في طور التنفيذ",
+        "queued": "في قائمة الانتظار",
+        "refuse_with_comment": "رفض مع التعليق"
+    },
+    "file": {
+        "view_file": "عرض الملف",
+        "view": "عرض",
+        "remove_file": "إزالة الملف"
+    }
+}

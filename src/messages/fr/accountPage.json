@@ -1,0 +1,27 @@
+{
+    "my_account": "My account",
+    "here_are_amy_application_details": "Here are all your application details, you can read only.",
+
+  "backend_errors": {
+    "something_went_wrong": {
+        "title": "Une erreur s'est produite.",
+        "description": "Quelque chose d'inhabituel s'est produit, veuillez réessayer."
+    },
+    "unablel_to_upload_some_files": {
+        "title": "Impossible de télécharger certains fichiers !",
+        "description": "Il y a un problème avec le téléchargement de certains de vos fichiers, veuillez recharger la page et réessayer."
+    },
+    "unablel_to_make_changes": {
+        "title": "Impossible d'effectuer des modifications.",
+        "description": "Vous ne pouvez plus apporter de modifications à cette étape"
+    },
+    "no_step_found": {
+        "title": "Aucune étape trouvée !",
+        "description": "Il semble que cette étape n'existe pas ou ait été supprimée."
+    },
+    "files_are_missing": {
+        "title": "Des fichiers sont manquants",
+        "description": "Veuillez télécharger toutes les fichiers demandées."
+    }
+}
+}

@@ -1,0 +1,26 @@
+{
+    "my_account": "My account",
+    "here_are_amy_application_details": "Here are all your application details, you can read only.",
+    "backend_errors": {
+        "something_went_wrong": {
+            "title": "Something went wrong.",
+            "description": "Something ununsual happend, please try again."
+        },
+        "unablel_to_upload_some_files": {
+            "title": "Unablel to upload some files!",
+            "description": "There is an issue about uploading some of your files, please reload the page and try again."
+        },
+        "unablel_to_make_changes": {
+            "title": "Unablel to make changes.",
+            "description": "You can't make changes into this step anymore"
+        },
+        "no_step_found": {
+            "title": "No step found!",
+            "description": "It seems like this step not exist or has been deleted."
+        },
+        "files_are_missing": {
+            "title": "Files are missing",
+            "description": "Please upload all the requested files."
+        }
+    }
+}

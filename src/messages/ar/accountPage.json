@@ -1,0 +1,26 @@
+{
+    "my_account": "حسابي",
+    "here_are_amy_application_details": "هنا جميع تفاصيل طلبك، يمكنك القراءة فقط.",
+    "backend_errors": {
+        "something_went_wrong": {
+            "title": "حدث خطأ ما.",
+            "description": "حدث شيء غير عادي، يرجى المحاولة مرة أخرى."
+        },
+        "unablel_to_upload_some_files": {
+            "title": "تعذر تحميل بعض الملفات!",
+            "description": "توجد مشكلة في تحميل بعض ملفاتك، يرجى إعادة تحميل الصفحة والمحاولة مرة أخرى."
+        },
+        "unablel_to_make_changes": {
+            "title": "تعذر إجراء تغييرات.",
+            "description": "لا يمكنك إجراء تغييرات على هذه الخطوة بعد الآن"
+        },
+        "no_step_found": {
+            "title": "لم يتم العثور على خطوة!",
+            "description": "يبدو أن هذه الخطوة غير موجودة أو تم حذفها."
+        },
+        "files_are_missing": {
+            "title": "الملفات مفقودة",
+            "description": "يرجى تحميل جميع الملفات المطلوبة."
+        }
+    }
+}

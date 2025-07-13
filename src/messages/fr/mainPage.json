@@ -1,0 +1,14 @@
+{
+    "your_application_steps": "Steps that should be followed",
+    "submit_step_button": "send reply",
+    "we_started_checking_your_reply": "We started checking your reply",
+    "the_reply_has_been_sent": "The reply has been sent",
+    "the_response_has_been_refused": "The response has been refused",
+    "this_step_already_accepted_and_you_can_download_your_file": "This step already accepted, and you can download your file",
+    "this_step_has_been_accepted": "Cette étape a été acceptée.",
+    "the_step_is_queued": "En file d'attente pour le moment",
+    "the_step_is_queued_description": "Cette étape n'est pas encore ouverte.",
+    "the_step_has_new_steps": "Il y a de nouveaux fichiers",
+    "the_uploaded_file_is_incorrect_please_try_to_upload_another_one": "Le fichier téléchargé est incorrect, veuillez essayer d'en télécharger un autre.",
+    "please_download_this_file": "Veuillez télécharger ce fichier"
+}

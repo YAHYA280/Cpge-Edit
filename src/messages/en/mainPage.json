@@ -1,0 +1,15 @@
+{
+    "your_application_steps": "Steps that should be followed",
+    "submit_step_button": "send reply",
+    "we_started_checking_your_reply": "We started checking your reply",
+    "the_reply_has_been_sent": "The reply has been sent",
+    "the_response_has_been_refused": "The response has been refused",
+    "this_step_already_accepted_and_you_can_download_your_file": "This step already accepted, and you can download your file",
+    "submitted_step_success_message": "Your step has been submitted step, and we received your response, and we'll response as soon as possible.",
+    "this_step_has_been_accepted": "This step has been accepted.",
+    "the_step_is_queued": "Queued for the moment",
+    "the_step_is_queued_description": "This step is not opened yet.",
+    "the_step_has_new_steps": "There is new files",
+    "the_uploaded_file_is_incorrect_please_try_to_upload_another_one": "The uploaded file is incorrect, please try to upload another one.",
+    "please_download_this_file": "Please download this file"
+}

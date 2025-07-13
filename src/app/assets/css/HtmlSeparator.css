@@ -1,0 +1,6 @@
+.html-separator{
+    background-color: rgba(209, 209, 209, 0.575);
+    /* width: 1px; */
+    border-radius: 50px;
+    position: relative;
+}

@@ -1,0 +1,89 @@
+{
+    "monthNames": {
+        "january": "January",
+        "february": "February",
+        "march": "March",
+        "april": "April",
+        "Mmy": "May",
+        "june": "June",
+        "july": "July",
+        "august": "August",
+        "september": "September",
+        "october": "October",
+        "november": "November",
+        "december": "December"
+    },
+    "header": {
+        "welcome": "Welcome",
+        "welcome_descripion": "Today is a good day and this must be a small paragraph",
+        "new_invoice": "New invoice",
+        "change_language": "Change language",
+        "the_translation": "The translation",
+        "the_currency": "The currency",
+
+        "the_theme": "The theme",
+        
+        "add_invoice_modal": {
+            "title": "Add new invoice",
+            "description": "Please upload your invoice file in the square below",
+            "action_button": "Send invoice"
+        },
+        "rest_to_pay": {
+            "the_rest_that_you_have_to_pay_is": "The rest that you have to pay is:",
+            "you_completed_the_package_price": "You completed the package price"
+        },
+        "profile": {
+            "my_steps": "My steps",
+            "my_account": "My account",
+            "my_invoices": "My invoices",
+            "need_help": "Need help?",
+            "log_out": "Log out",
+            "this_customer_was_verified_by": "This customer was verified by"
+        }
+    },
+    "ok": "Ok",
+    "cancel": "Cancel",
+    "download": "Download",
+    "write_here": "Write here...",
+    "before": "Before",
+    "total": "Total",
+    "note": "Note",
+    "attachement": "Attachement",
+    "download_attachement": "Download attachement",
+    "updating_currency": "Updating currency",
+    "file_preview": "File preview",
+    "updating_language": "Updating language",
+    "inputs": {
+        "choose_file": "Choose file",
+        "to_upload": "to upload",
+        "supported_formats": "Supported formats"
+    },
+    "date": {
+        "year": "Year",
+        "month": "Month",
+        "day": "Day",
+        "hour": "Hour",
+        "minute": "Minute",
+        "second": "Second",
+        "years": "Years",
+        "months": "Months",
+        "days": "Days",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "seconds": "Seconds"
+    },
+    "statuses": {
+        "accepted": "Accepted",
+        "refused": "Refused",
+        "deleted": "Deleted",
+        "pending": "Pending",
+        "in_process": "In process",
+        "queued": "Queued",
+        "refuse_with_comment": "Refused with comment"
+    },
+    "file": {
+        "view_file": "View file",
+        "view": "View",
+        "remove_file": "Remove file"
+    }
+}

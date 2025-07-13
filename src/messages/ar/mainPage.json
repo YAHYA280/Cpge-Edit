@@ -1,0 +1,15 @@
+{
+    "your_application_steps": "المراحل التي يجب تتبعها",
+    "submit_step_button": "إرسال الرد",
+    "we_started_checking_your_reply": "بدأنا في التحقق من ردك",
+    "the_reply_has_been_sent": "تم إرسال الرد",
+    "the_response_has_been_refused": "لقد تم رفض الرد",
+    "this_step_already_accepted_and_you_can_download_your_file": "تم قبول هذه الخطوة بالفعل، ويمكنك تنزيل ملفك",
+    "submitted_step_success_message": "لقد تم تقديم خطوتك، وقد تلقينا ردك، وسوف نقوم بالرد في أقرب وقت ممكن.",
+    "this_step_has_been_accepted": "تم قبول هذه الخطوة.",
+    "the_step_is_queued": "موجود في قائمة الانتظار في الوقت الحالي",
+    "the_step_is_queued_description": "لم يتم فتح هذه الخطوة بعد.",
+    "the_step_has_new_steps": "هناك ملفات جديدة",
+    "the_uploaded_file_is_incorrect_please_try_to_upload_another_one": "الملف الذي تم تحميله غير صحيح، يرجى محاولة تحميل ملف آخر.",
+    "please_download_this_file": "الرجاء تنزيل هذا الملف"
+}
